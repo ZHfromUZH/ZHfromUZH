@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+🔭 I’m currently studying at University of Zurich
+🌱 I’m currently learning ME&DS
 <!--
 **ZHfromUZH/ZHfromUZH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
